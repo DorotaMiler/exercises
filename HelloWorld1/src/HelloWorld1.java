@@ -1,12 +1,12 @@
 /**
- * this comment is used while creating program's documentation
-HeloWorld1 java calss addition
- @param args - parameters passed after running the program
+ * this type of multi-line comment is used in program's documentation creation
+HelloWorld1 java class addition
+ @param args - parameters passed after the program is run
 */
 
 public class HelloWorld1 {
     public static void main(String[] args) {  // a starting method
-        System.out.println("Hello world again :)!"); //Display the first String
-        System.out.println("Take care and all the best!");  //Display the second String
+        System.out.println("Hello world again :)!"); // Display the first String
+        System.out.println("Take care and all the best!");  // Display the second String
     }
 }
