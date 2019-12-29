@@ -1,5 +1,7 @@
 /**
+ * this comment is used while creating program's documentation
 HeloWorld1 java calss addition
+ @param args - parameters passed after running the table
 */
 
 public class HelloWorld1 {
